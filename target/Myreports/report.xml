@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="37.569" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Home Page Test" name="Login panel item count" time="37.557">
+<system-out><![CDATA[
+Given User enters the url "https://www.lenskart.com/" in the browser........passed
+And User sign in with valid username "automationpractice20@gmail.com" and password "NewAutomationpractice20@gmail.com".passed
+When User gets the count of login panel items...............................passed
+Then Login panel item count should be "5"...................................passed
+And Login panel items should be.............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
